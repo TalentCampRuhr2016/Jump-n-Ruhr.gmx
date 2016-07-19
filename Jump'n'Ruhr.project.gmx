@@ -48,6 +48,7 @@
     <object>objects\music_bg1</object>
     <object>objects\coin_object</object>
     <object>objects\game_over_sound</object>
+    <object>objects\wall_object</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\dummy_level</room>
