@@ -16,6 +16,7 @@
       <sound>sound\Spitzhacke</sound>
       <sound>sound\Steine_fallen</sound>
       <sound>sound\Ziel_Veltins_Arena</sound>
+      <sound>sound\Gas</sound>
     </sounds>
   </sounds>
   <sprites name="sprites">
