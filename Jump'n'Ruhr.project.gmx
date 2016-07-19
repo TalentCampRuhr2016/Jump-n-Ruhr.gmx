@@ -17,6 +17,14 @@
       <sound>sound\Steine_fallen</sound>
       <sound>sound\Ziel_Veltins_Arena</sound>
       <sound>sound\Gas</sound>
+      <sound>sound\Biene</sound>
+      <sound>sound\Block_M_nze</sound>
+      <sound>sound\Feuer</sound>
+      <sound>sound\laufen</sound>
+      <sound>sound\Leben_verlieren</sound>
+      <sound>sound\Sieg</sound>
+      <sound>sound\springen</sound>
+      <sound>sound\Verloren</sound>
     </sounds>
   </sounds>
   <sprites name="sprites">
