@@ -10,6 +10,11 @@
     </sounds>
     <sounds name="effect">
       <sound>sound\dummy_effect</sound>
+      <sound>sound\Erdbeben</sound>
+      <sound>sound\Gestorben_vom_Zombie</sound>
+      <sound>sound\Spitzhacke</sound>
+      <sound>sound\Steine_fallen</sound>
+      <sound>sound\Ziel_Veltins_Arena</sound>
     </sounds>
   </sounds>
   <sprites name="sprites">
