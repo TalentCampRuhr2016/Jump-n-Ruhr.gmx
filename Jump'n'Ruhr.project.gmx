@@ -18,6 +18,9 @@
     <sprite>sprites\dummy_life</sprite>
     <sprite>sprites\sprite3</sprite>
     <sprite>sprites\coin_sprite</sprite>
+    <sprite>sprites\Player_1_Minenarbeiter</sprite>
+    <sprite>sprites\Player_2_Schalke</sprite>
+    <sprite>sprites\Player_Emma</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
