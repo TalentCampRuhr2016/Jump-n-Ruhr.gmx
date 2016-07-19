@@ -25,6 +25,7 @@
       <sound>sound\Sieg</sound>
       <sound>sound\springen</sound>
       <sound>sound\Verloren</sound>
+      <sound>sound\big_Bomb</sound>
     </sounds>
   </sounds>
   <sprites name="sprites">
