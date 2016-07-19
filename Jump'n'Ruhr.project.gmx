@@ -30,13 +30,13 @@
     </sounds>
   </sounds>
   <sprites name="sprites">
+    <sprite>sprites\Gegner_Emma</sprite>
     <sprite>sprites\black</sprite>
     <sprite>sprites\dummy_player_sprite</sprite>
     <sprite>sprites\dummy_life</sprite>
     <sprite>sprites\coin_sprite</sprite>
     <sprite>sprites\Player_1_Minenarbeiter</sprite>
     <sprite>sprites\Player_2_Schalke</sprite>
-    <sprite>sprites\Player_Emma</sprite>
     <sprite>sprites\Power_Up_Dortmund_1</sprite>
     <sprite>sprites\Power_Up_Schalke_1</sprite>
   </sprites>
