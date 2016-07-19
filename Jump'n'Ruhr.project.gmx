@@ -20,6 +20,7 @@
     <sprite>sprites\Player_1_Minenarbeiter</sprite>
     <sprite>sprites\Player_2_Schalke</sprite>
     <sprite>sprites\Player_Emma</sprite>
+    <sprite>sprites\Power_Up_Dortmund_1</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
