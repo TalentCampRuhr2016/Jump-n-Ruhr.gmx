@@ -26,6 +26,7 @@
       <sound>sound\springen</sound>
       <sound>sound\Verloren</sound>
       <sound>sound\big_Bomb</sound>
+      <sound>sound\Feuer__gro__</sound>
     </sounds>
   </sounds>
   <sprites name="sprites">
