@@ -627,7 +627,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>&lt;undefined&gt;</sound>
+            <sound>-1</sound>
           </argument>
         </arguments>
       </action>
