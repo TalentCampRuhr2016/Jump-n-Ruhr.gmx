@@ -54,8 +54,7 @@
     <object>objects\wall_object</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\dummy_level</room>
-    <room>rooms\game_over</room>
+    <room>rooms\dummy_room</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
