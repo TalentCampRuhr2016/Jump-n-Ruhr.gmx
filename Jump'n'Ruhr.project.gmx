@@ -28,6 +28,9 @@
     <sounds name="Backgroundsounds">
       <sound>sound\Background_Music_1</sound>
       <sound>sound\Backgroundsound_Music_</sound>
+      <sound>sound\Background_music_3</sound>
+      <sound>sound\Background_music_4</sound>
+      <sound>sound\Background_music_5</sound>
     </sounds>
   </sounds>
   <sprites name="sprites">
@@ -49,7 +52,6 @@
     <background>background\BG_Level1</background>
   </backgrounds>
   <paths name="paths"/>
-  <fonts name="fonts"/>
   <objects name="objects">
     <object>objects\ground_obj</object>
     <object>objects\dummy_player</object>
