@@ -45,7 +45,9 @@
     <sprite>sprites\Box_Power_Up</sprite>
     <sprite>sprites\ground</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\BG_Level1</background>
+  </backgrounds>
   <paths name="paths"/>
   <fonts name="fonts"/>
   <objects name="objects">
