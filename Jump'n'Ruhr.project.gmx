@@ -52,9 +52,10 @@
     <object>objects\coin_object</object>
     <object>objects\game_over_sound</object>
     <object>objects\wall_object</object>
+    <object>objects\Box_obj</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\dummy_room</room>
+    <room>rooms\Level1</room>
     <room>rooms\game_over</room>
   </rooms>
   <help>
