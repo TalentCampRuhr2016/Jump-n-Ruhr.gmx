@@ -209,8 +209,6 @@
     <instance objName="ground_obj" x="1344" y="384" name="inst_2E835590" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground_obj" x="1312" y="384" name="inst_8C85CA1F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground_obj" x="768" y="480" name="inst_9646FEBC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Box_obj" x="896" y="480" name="inst_CE6B77E5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Box_obj" x="1024" y="288" name="inst_31150BD2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground_obj" x="928" y="224" name="inst_83F682E7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground_obj" x="992" y="224" name="inst_C07B501F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground_obj" x="960" y="224" name="inst_870CAC6C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

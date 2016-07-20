@@ -113,7 +113,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>phy_fixed_rotation = true ;
+            <string>phy_fixed_rotation = true;
 </string>
           </argument>
         </arguments>
@@ -325,7 +325,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>physics_apply_local_force(0, 0, 0, -2500);
+            <string>physics_apply_local_force(0, 0, 0, -1000);
 </string>
           </argument>
         </arguments>
