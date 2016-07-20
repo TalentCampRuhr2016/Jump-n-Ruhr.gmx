@@ -5,10 +5,6 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound">
-    <sounds name="background">
-      <sound>sound\background1</sound>
-      <sound>sound\background2</sound>
-    </sounds>
     <sounds name="effect">
       <sound>sound\dummy_effect</sound>
       <sound>sound\Erdbeben</sound>
