@@ -113,7 +113,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>Player_1_Minenarbeiter</sprite>
+            <sprite>-100</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -547,7 +547,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>Leben_verlieren</sound>
+            <sound>-100</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -613,26 +613,6 @@
       </action>
       <action>
         <libid>1</libid>
-        <id>212</id>
-        <kind>0</kind>
-        <userelative>0</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>0</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_end_sound</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>6</kind>
-            <sound>background1</sound>
-          </argument>
-        </arguments>
-      </action>
-      <action>
-        <libid>1</libid>
         <id>224</id>
         <kind>0</kind>
         <userelative>0</userelative>
@@ -647,7 +627,7 @@
         <arguments>
           <argument>
             <kind>11</kind>
-            <room>game_over</room>
+            <room>-100</room>
           </argument>
         </arguments>
       </action>
