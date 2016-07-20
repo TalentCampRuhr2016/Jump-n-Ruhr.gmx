@@ -47,6 +47,7 @@
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <fonts name="fonts"/>
   <objects name="objects">
     <object>objects\ground_obj</object>
     <object>objects\dummy_player</object>
