@@ -47,6 +47,7 @@
   <objects name="objects">
     <object>objects\ground_obj</object>
     <object>objects\dummy_player</object>
+    <object>objects\player_minenarbeiter</object>
     <object>objects\music_bg1</object>
     <object>objects\coin_object</object>
     <object>objects\game_over_sound</object>
