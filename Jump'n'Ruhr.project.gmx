@@ -27,6 +27,7 @@
     </sounds>
     <sounds name="Backgroundsounds">
       <sound>sound\Background_Music_1</sound>
+      <sound>sound\Backgroundsound_Music_</sound>
     </sounds>
   </sounds>
   <sprites name="sprites">
