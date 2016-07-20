@@ -627,7 +627,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>-100</sound>
+            <sound>background1</sound>
           </argument>
         </arguments>
       </action>
