@@ -41,6 +41,7 @@
     <sprite>sprites\Power_Up_Schalke_1</sprite>
     <sprite>sprites\Power_Up_Duisburg_1</sprite>
     <sprite>sprites\Power_Up_Oberhausen_1</sprite>
+    <sprite>sprites\Box_Power_Up</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
