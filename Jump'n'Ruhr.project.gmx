@@ -55,6 +55,7 @@
   </objects>
   <rooms name="rooms">
     <room>rooms\dummy_room</room>
+    <room>rooms\game_over</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
