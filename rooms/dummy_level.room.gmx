@@ -64,7 +64,6 @@
     <instance objName="ground_obj" x="384" y="736" name="inst_9661C323" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground_obj" x="352" y="736" name="inst_A25F4D32" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground_obj" x="416" y="736" name="inst_2A7248C6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="dummy_player" x="96" y="608" name="inst_32FE87E4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground_obj" x="448" y="736" name="inst_F08B0BD6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground_obj" x="480" y="736" name="inst_5E90D308" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground_obj" x="512" y="736" name="inst_40D65F1B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -84,7 +83,6 @@
     <instance objName="ground_obj" x="928" y="736" name="inst_DE6CCDA3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground_obj" x="960" y="736" name="inst_2291104E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground_obj" x="992" y="736" name="inst_148936A4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="music_bg1" x="160" y="256" name="inst_F3BA3331" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_object" x="256" y="608" name="inst_71890D68" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_object" x="416" y="608" name="inst_DB68722D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_object" x="512" y="608" name="inst_5C2AC7BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -106,6 +104,7 @@
     <instance objName="wall_object" x="1024" y="544" name="inst_48B02B49" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall_object" x="1024" y="576" name="inst_94FCD30D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall_object" x="1024" y="512" name="inst_540CE04A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="dummy_player" x="64" y="640" name="inst_E8642B00" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>-1</PhysicsWorld>
