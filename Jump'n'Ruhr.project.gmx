@@ -68,9 +68,8 @@
   </objects>
   <rooms name="rooms">
     <room>rooms\Level1</room>
-    <room>rooms\__dummy_room</room>
+    <room>rooms\dummy_room</room>
     <room>rooms\game_over</room>
-    <room>rooms\room2</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
