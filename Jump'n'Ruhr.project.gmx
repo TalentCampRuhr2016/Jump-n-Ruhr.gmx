@@ -59,6 +59,7 @@
   <backgrounds name="background">
     <background>background\BG_Level1</background>
     <background>background\Boden</background>
+    <background>background\bg_lv1</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
