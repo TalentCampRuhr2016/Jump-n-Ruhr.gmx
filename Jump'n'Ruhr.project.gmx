@@ -55,12 +55,8 @@
     <sprite>sprites\heart</sprite>
     <sprite>sprites\Leveldesing_Team</sprite>
     <sprite>sprites\Objekt_Team</sprite>
-<<<<<<< HEAD
-    <sprite>sprites\Einleitung_Level1</sprite>
-=======
     <sprite>sprites\Programmier_Team</sprite>
     <sprite>sprites\Sound_Team</sprite>
->>>>>>> origin/master
   </sprites>
   <backgrounds name="background">
     <background>background\BG_Level1</background>
@@ -91,6 +87,7 @@
     <room>rooms\dummy_room</room>
     <room>rooms\game_over</room>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <room>rooms\Start_Room</room>
     <room>rooms\Credits_Room_0</room>
     <room>rooms\Credits_Room_1</room>
@@ -100,6 +97,8 @@
 =======
     <room>rooms\titlescreen</room>
 >>>>>>> f7a1e50b65a3ca4d2eca91b40dd6af5bd7b4822a
+=======
+>>>>>>> 43871e2d92577575be8e33bce353cf18bdfbb875
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
