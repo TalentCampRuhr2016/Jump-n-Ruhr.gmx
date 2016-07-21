@@ -85,12 +85,14 @@
     <object>objects\win_obj</object>
     <object>objects\win_player</object>
     <object>objects\music_win</object>
+    <object>objects\object19</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\Main_Room</room>
+    <room>rooms\Start_Room</room>
     <room>rooms\Level1</room>
     <room>rooms\dummy_room</room>
     <room>rooms\game_over</room>
-    <room>rooms\Start_Room</room>
     <room>rooms\Credits_Room_0</room>
     <room>rooms\Credits_Room_1</room>
     <room>rooms\Credit_Room_2</room>
