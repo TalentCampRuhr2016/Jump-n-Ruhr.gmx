@@ -46,6 +46,11 @@
     <sprite>sprites\Power_Up_Oberhausen_1</sprite>
     <sprite>sprites\Box_Power_Up</sprite>
     <sprite>sprites\ground</sprite>
+    <sprite>sprites\CookIT</sprite>
+    <sprite>sprites\Credits_Pic</sprite>
+    <sprite>sprites\Game_Over_Screen_Lv_1</sprite>
+    <sprite>sprites\Game_Over_Tempus_Sans_ITC_140_Format</sprite>
+    <sprite>sprites\heart</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\BG_Level1</background>
