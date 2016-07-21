@@ -32,6 +32,7 @@
       <sound>sound\credit_bg</sound>
       <sound>sound\Background</sound>
       <sound>sound\Background_2</sound>
+      <sound>sound\bosswave</sound>
     </sounds>
   </sounds>
   <sprites name="sprites">
@@ -55,7 +56,12 @@
     <sprite>sprites\heart</sprite>
     <sprite>sprites\Leveldesing_Team</sprite>
     <sprite>sprites\Objekt_Team</sprite>
+<<<<<<< HEAD
     <sprite>sprites\Einleitung_Level1</sprite>
+=======
+    <sprite>sprites\Programmier_Team</sprite>
+    <sprite>sprites\Sound_Team</sprite>
+>>>>>>> origin/master
   </sprites>
   <backgrounds name="background">
     <background>background\BG_Level1</background>
@@ -73,6 +79,7 @@
     <object>objects\bg_level_1</object>
     <object>objects\fallen_stone</object>
     <object>objects\game_over_bg</object>
+    <object>objects\gas_fire</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Level1</room>

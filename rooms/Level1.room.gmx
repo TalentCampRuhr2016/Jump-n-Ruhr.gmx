@@ -41,7 +41,7 @@
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
   </backgrounds>
   <views>
-    <view visible="-1" objName="player_minenarbeiter" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="64" vborder="64" hspeed="-1" vspeed="-1"/>
+    <view visible="-1" objName="player_minenarbeiter" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="500" vborder="64" hspeed="-1" vspeed="-1"/>
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
@@ -168,7 +168,7 @@
     <instance objName="ground_obj" x="1792" y="288" name="inst_343852BB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground_obj" x="1920" y="288" name="inst_8424EB75" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground_obj" x="1888" y="288" name="inst_9535CEE5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="coin_object" x="1664" y="512" name="inst_826FC6AE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="coin_object" x="1664" y="544" name="inst_826FC6AE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground_obj" x="1280" y="736" name="inst_C1F455F2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground_obj" x="1280" y="736" name="inst_AFC6CB0C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground_obj" x="1344" y="736" name="inst_520E9769" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -528,6 +528,23 @@
     <instance objName="fallen_stone" x="384" y="320" name="inst_064382CA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="fallen_stone" x="384" y="352" name="inst_ADF20F99" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="fallen_stone" x="352" y="352" name="inst_B11AED71" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="coin_object" x="288" y="416" name="inst_15D9E96B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="coin_object" x="1216" y="320" name="inst_18A21051" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="coin_object" x="1152" y="320" name="inst_E4B23C7C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="coin_object" x="1088" y="320" name="inst_0213253D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="coin_object" x="1472" y="480" name="inst_38F9F5DB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="coin_object" x="1792" y="384" name="inst_DF51364F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="coin_object" x="1888" y="224" name="inst_1DDAD232" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="coin_object" x="1824" y="224" name="inst_6732A2DD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="coin_object" x="1952" y="512" name="inst_67FE0220" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="coin_object" x="896" y="672" name="inst_66E1C95C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="coin_object" x="832" y="672" name="inst_87E6B40D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="fallen_stone" x="1312" y="224" name="inst_BC372846" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="fallen_stone" x="1344" y="224" name="inst_BB660F40" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="fallen_stone" x="1344" y="192" name="inst_91E118A0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="fallen_stone" x="1312" y="192" name="inst_6460EBFE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="fallen_stone" x="1120" y="576" name="inst_90DD8364" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="fallen_stone" x="1152" y="576" name="inst_4467D673" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="Boden" x="32" y="736" w="32" h="32" xo="0" yo="0" id="10000001" name="inst_59E85505" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
