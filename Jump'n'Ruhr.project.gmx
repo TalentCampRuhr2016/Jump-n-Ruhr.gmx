@@ -32,6 +32,7 @@
       <sound>sound\credit_bg</sound>
       <sound>sound\Background</sound>
       <sound>sound\Background_2</sound>
+      <sound>sound\bosswave</sound>
     </sounds>
   </sounds>
   <sprites name="sprites">

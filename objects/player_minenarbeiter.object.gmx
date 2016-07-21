@@ -1022,7 +1022,7 @@ if(phy_speed_x &lt; -5) {
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>Background</sound>
+            <sound>bosswave</sound>
           </argument>
         </arguments>
       </action>
