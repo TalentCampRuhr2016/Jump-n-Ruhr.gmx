@@ -24,6 +24,7 @@
       <sound>sound\big_Bomb</sound>
       <sound>sound\Feuer__gro__</sound>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <sound>sound\DJ_Music</sound>
     </sounds>
     <sounds name="Backgroundsounds">
@@ -32,6 +33,8 @@
       <sound>sound\Background_music_3</sound>
       <sound>sound\Background_music_4</sound>
       <sound>sound\Background_music_5</sound>
+=======
+>>>>>>> parent of d047423... Merge remote-tracking branch 'origin/master'
 =======
 >>>>>>> parent of d047423... Merge remote-tracking branch 'origin/master'
     </sounds>
