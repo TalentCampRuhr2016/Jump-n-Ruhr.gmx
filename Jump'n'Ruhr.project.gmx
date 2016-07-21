@@ -75,11 +75,23 @@
     <object>objects\fallen_stone</object>
     <object>objects\game_over_bg</object>
     <object>objects\gas_fire</object>
+    <object>objects\credits_room_changer</object>
+    <object>objects\leveldesign</object>
+    <object>objects\objektteam</object>
+    <object>objects\programmierteam</object>
+    <object>objects\soundteam</object>
+    <object>objects\credit_room_music_player</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Level1</room>
     <room>rooms\dummy_room</room>
     <room>rooms\game_over</room>
+    <room>rooms\Start_Room</room>
+    <room>rooms\Credits_Room_0</room>
+    <room>rooms\Credits_Room_1</room>
+    <room>rooms\Credit_Room_2</room>
+    <room>rooms\Credit_Room_3</room>
+    <room>rooms\Credit_Room_4</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
