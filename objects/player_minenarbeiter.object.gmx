@@ -1623,7 +1623,7 @@ if(phy_speed_x &lt; -5) {
           </argument>
           <argument>
             <kind>0</kind>
-            <string>5</string>
+            <string>20</string>
           </argument>
           <argument>
             <kind>5</kind>
