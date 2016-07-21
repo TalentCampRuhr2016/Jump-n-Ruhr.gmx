@@ -52,6 +52,7 @@
   </views>
   <instances>
     <instance objName="game_over_sound" x="576" y="288" name="inst_78BEA1C6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="game_over_bg" x="512" y="384" name="inst_1C275EC2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
