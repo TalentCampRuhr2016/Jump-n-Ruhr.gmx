@@ -23,10 +23,8 @@
       <sound>sound\Verloren</sound>
       <sound>sound\big_Bomb</sound>
       <sound>sound\Feuer__gro__</sound>
-      <sound>sound\DJ_Music</sound>
     </sounds>
     <sounds name="Backgroundsounds">
-      <sound>sound\Background_Music_1</sound>
       <sound>sound\Backgroundsound_Music_</sound>
       <sound>sound\Background_music_3</sound>
       <sound>sound\Background_music_4</sound>
