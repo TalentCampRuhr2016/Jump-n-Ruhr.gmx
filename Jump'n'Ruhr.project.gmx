@@ -69,6 +69,7 @@
     <object>objects\game_over_sound</object>
     <object>objects\wall_object</object>
     <object>objects\bg_level_1</object>
+    <object>objects\fallen_stone</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Level1</room>
