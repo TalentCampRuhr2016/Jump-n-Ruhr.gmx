@@ -53,6 +53,7 @@
   <instances>
     <instance objName="credits_room_changer" x="32" y="32" name="inst_4C47827F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object19" x="512" y="384" name="inst_E58B1BBB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="main_music" x="-96" y="416" name="inst_DBCF2E31" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

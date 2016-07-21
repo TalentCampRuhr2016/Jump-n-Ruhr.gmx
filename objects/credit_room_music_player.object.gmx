@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>-100</sound>
+            <sound>credit_bg</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -49,7 +49,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>-100</sound>
+            <sound>Sieg</sound>
           </argument>
         </arguments>
       </action>
