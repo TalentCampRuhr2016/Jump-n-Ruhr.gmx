@@ -29,6 +29,7 @@
       <sound>sound\Background_music_3</sound>
       <sound>sound\Background_music_4</sound>
       <sound>sound\Background_music_5</sound>
+      <sound>sound\credit_bg</sound>
     </sounds>
   </sounds>
   <sprites name="sprites">
