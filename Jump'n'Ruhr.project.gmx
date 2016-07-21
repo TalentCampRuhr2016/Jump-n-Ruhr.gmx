@@ -81,18 +81,21 @@
     <object>objects\programmierteam</object>
     <object>objects\soundteam</object>
     <object>objects\credit_room_music_player</object>
+    <object>objects\CookIT_logo</object>
+    <object>objects\start_screen_music</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\Level1</room>
-    <room>rooms\dummy_room</room>
-    <room>rooms\game_over</room>
+    <room>rooms\main_room</room>
     <room>rooms\Start_Room</room>
+    <room>rooms\Level1</room>
     <room>rooms\Credits_Room_0</room>
     <room>rooms\Credits_Room_1</room>
     <room>rooms\Credit_Room_2</room>
     <room>rooms\Credit_Room_3</room>
     <room>rooms\Credit_Room_4</room>
     <room>rooms\room3</room>
+    <room>rooms\dummy_room</room>
+    <room>rooms\game_over</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
