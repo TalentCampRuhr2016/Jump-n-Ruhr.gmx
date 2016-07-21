@@ -64,10 +64,7 @@
     <instance objName="ground_obj" x="384" y="736" name="inst_9661C323" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground_obj" x="352" y="736" name="inst_A25F4D32" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground_obj" x="416" y="736" name="inst_2A7248C6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-<<<<<<< HEAD
     <instance objName="dummy_player" x="64" y="672" name="inst_32FE87E4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-=======
->>>>>>> origin/master
     <instance objName="ground_obj" x="448" y="736" name="inst_F08B0BD6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground_obj" x="480" y="736" name="inst_5E90D308" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground_obj" x="512" y="736" name="inst_40D65F1B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -87,24 +84,16 @@
     <instance objName="ground_obj" x="928" y="736" name="inst_DE6CCDA3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground_obj" x="960" y="736" name="inst_2291104E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground_obj" x="992" y="736" name="inst_148936A4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-<<<<<<< HEAD
     <instance objName="music_bg1" x="0" y="0" name="inst_F3BA3331" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_object" x="672" y="672" name="inst_71890D68" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_object" x="416" y="672" name="inst_DB68722D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_object" x="480" y="672" name="inst_5C2AC7BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_object" x="608" y="672" name="inst_E6DB9D3C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-=======
-    <instance objName="coin_object" x="256" y="608" name="inst_71890D68" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="coin_object" x="416" y="608" name="inst_DB68722D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="coin_object" x="512" y="608" name="inst_5C2AC7BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="coin_object" x="544" y="608" name="inst_E6DB9D3C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
->>>>>>> origin/master
     <instance objName="coin_object" x="352" y="672" name="inst_3413D326" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_object" x="160" y="672" name="inst_2A9C29F4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_object" x="256" y="544" name="inst_97B13D4B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_object" x="544" y="672" name="inst_16211BF6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_object" x="256" y="672" name="inst_C67B52B1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-<<<<<<< HEAD
     <instance objName="ground_obj" x="192" y="736" name="inst_D5C4FFB2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall_object" x="192" y="608" name="inst_D8DAB881" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall_object" x="96" y="608" name="inst_48B02B49" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -253,21 +242,6 @@
     <instance objName="coin_object" x="416" y="416" name="inst_B3A81230" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="coin_object" x="672" y="288" name="inst_F62B62E5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="ground_obj" x="704" y="352" name="inst_5800396D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-=======
-    <instance objName="ground_obj" x="192" y="704" name="inst_D5C4FFB2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="wall_object" x="-32" y="704" name="inst_1864DBBE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="wall_object" x="-32" y="672" name="inst_240F821D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="wall_object" x="-32" y="608" name="inst_6A675AEA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="wall_object" x="-32" y="640" name="inst_708432D5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="wall_object" x="-32" y="576" name="inst_D2C71AE8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="wall_object" x="-32" y="512" name="inst_4924CCF8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="wall_object" x="-32" y="544" name="inst_FEEC50DB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="wall_object" x="1024" y="608" name="inst_D8DAB881" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="wall_object" x="1024" y="544" name="inst_48B02B49" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="wall_object" x="1024" y="576" name="inst_94FCD30D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="wall_object" x="1024" y="512" name="inst_540CE04A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="dummy_player" x="64" y="640" name="inst_E8642B00" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
->>>>>>> origin/master
   </instances>
   <tiles/>
   <PhysicsWorld>-1</PhysicsWorld>

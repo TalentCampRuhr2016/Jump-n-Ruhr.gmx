@@ -23,6 +23,7 @@
       <sound>sound\Verloren</sound>
       <sound>sound\big_Bomb</sound>
       <sound>sound\Feuer__gro__</sound>
+<<<<<<< HEAD
       <sound>sound\DJ_Music</sound>
     </sounds>
     <sounds name="Backgroundsounds">
@@ -31,6 +32,8 @@
       <sound>sound\Background_music_3</sound>
       <sound>sound\Background_music_4</sound>
       <sound>sound\Background_music_5</sound>
+=======
+>>>>>>> parent of d047423... Merge remote-tracking branch 'origin/master'
     </sounds>
   </sounds>
   <sprites name="sprites">
@@ -56,6 +59,7 @@
     <object>objects\ground_obj</object>
     <object>objects\dummy_player</object>
     <object>objects\player_minenarbeiter</object>
+    <object>objects\music_bg1</object>
     <object>objects\coin_object</object>
     <object>objects\game_over_sound</object>
     <object>objects\wall_object</object>
