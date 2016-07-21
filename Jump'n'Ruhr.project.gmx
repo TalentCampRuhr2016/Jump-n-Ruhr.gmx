@@ -30,6 +30,8 @@
       <sound>sound\Background_music_4</sound>
       <sound>sound\Background_music_5</sound>
       <sound>sound\credit_bg</sound>
+      <sound>sound\Background</sound>
+      <sound>sound\sound23</sound>
     </sounds>
   </sounds>
   <sprites name="sprites">
@@ -54,6 +56,8 @@
   </sprites>
   <backgrounds name="background">
     <background>background\BG_Level1</background>
+    <background>background\background1</background>
+    <background>background\background2</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
