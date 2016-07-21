@@ -86,11 +86,6 @@
     <room>rooms\Level1</room>
     <room>rooms\dummy_room</room>
     <room>rooms\game_over</room>
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> f7a1e50b65a3ca4d2eca91b40dd6af5bd7b4822a
->>>>>>> 43871e2d92577575be8e33bce353cf18bdfbb875
     <room>rooms\room3</room>
   </rooms>
   <help>
