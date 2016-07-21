@@ -41,6 +41,7 @@
     <sprite>sprites\dummy_life</sprite>
     <sprite>sprites\coin_sprite</sprite>
     <sprite>sprites\Player_1_Minenarbeiter</sprite>
+    <sprite>sprites\Player_1_Mienenarbeiter_Mirrored</sprite>
     <sprite>sprites\Player_2_Schalke</sprite>
     <sprite>sprites\Power_Up_Dortmund_1</sprite>
     <sprite>sprites\Power_Up_Schalke_1</sprite>
@@ -66,6 +67,7 @@
     <object>objects\coin_object</object>
     <object>objects\game_over_sound</object>
     <object>objects\wall_object</object>
+    <object>objects\bg_level_1</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Level1</room>
