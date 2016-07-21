@@ -68,8 +68,8 @@
     <object>objects\wall_object</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\Level1</room>
     <room>rooms\__dummy_room</room>
+    <room>rooms\Level1</room>
     <room>rooms\game_over</room>
     <room>rooms\room2</room>
   </rooms>
