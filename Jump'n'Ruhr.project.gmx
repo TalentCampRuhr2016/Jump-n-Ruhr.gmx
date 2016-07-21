@@ -55,6 +55,7 @@
     <sprite>sprites\heart</sprite>
     <sprite>sprites\Leveldesing_Team</sprite>
     <sprite>sprites\Objekt_Team</sprite>
+    <sprite>sprites\Einleitung_Level1</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\BG_Level1</background>
@@ -77,6 +78,7 @@
     <room>rooms\Level1</room>
     <room>rooms\dummy_room</room>
     <room>rooms\game_over</room>
+    <room>rooms\titlescreen</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
