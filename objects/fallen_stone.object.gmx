@@ -28,9 +28,8 @@
             <string>phy_active = false;
 
 var min_dist = 100;
-var inst = instance_find(player_minenarbeiter,0);
 
-var dist = point_distance(x,y,inst.x,inst.y);
+var dist = distance_to_object(player_minenarbeiter);
 
 if(dist &lt;= min_dist) {
     phy_active = true;
