@@ -1076,7 +1076,7 @@ if(phy_speed_x &lt; -5) {
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>-100</sound>
+            <sound>Leben_verlieren</sound>
           </argument>
           <argument>
             <kind>3</kind>
