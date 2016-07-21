@@ -55,6 +55,7 @@
     <sprite>sprites\heart</sprite>
     <sprite>sprites\Leveldesing_Team</sprite>
     <sprite>sprites\Objekt_Team</sprite>
+    <sprite>sprites\Programmier_Team</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\BG_Level1</background>
