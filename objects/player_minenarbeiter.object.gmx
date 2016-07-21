@@ -1433,15 +1433,15 @@ if(phy_speed_x &lt; -5) {
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>256</string>
+            <string>700</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>96</string>
+            <string>1</string>
           </argument>
           <argument>
             <kind>5</kind>
-            <sprite>dummy_life</sprite>
+            <sprite>heart</sprite>
           </argument>
         </arguments>
       </action>
