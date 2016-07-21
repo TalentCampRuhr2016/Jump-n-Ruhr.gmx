@@ -86,12 +86,12 @@
     <room>rooms\Level1</room>
     <room>rooms\dummy_room</room>
     <room>rooms\game_over</room>
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> f7a1e50b65a3ca4d2eca91b40dd6af5bd7b4822a
->>>>>>> 43871e2d92577575be8e33bce353cf18bdfbb875
-    <room>rooms\room3</room>
+    <room>rooms\Start_Room</room>
+    <room>rooms\Credits_Room_0</room>
+    <room>rooms\Credits_Room_1</room>
+    <room>rooms\Credit_Room_2</room>
+    <room>rooms\Credit_Room_3</room>
+    <room>rooms\Credit_Room_4</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
