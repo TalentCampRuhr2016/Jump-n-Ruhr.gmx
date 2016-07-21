@@ -131,7 +131,7 @@ if(dist &lt;= min_dist) {
   <PhysicsObjectLinearDamping>0</PhysicsObjectLinearDamping>
   <PhysicsObjectAngularDamping>0</PhysicsObjectAngularDamping>
   <PhysicsObjectFriction>0</PhysicsObjectFriction>
-  <PhysicsObjectAwake>0</PhysicsObjectAwake>
+  <PhysicsObjectAwake>-1</PhysicsObjectAwake>
   <PhysicsObjectKinematic>0</PhysicsObjectKinematic>
   <PhysicsShapePoints>
     <point>4,4</point>
