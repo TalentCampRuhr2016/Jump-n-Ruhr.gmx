@@ -32,6 +32,7 @@
       <sound>sound\credit_bg</sound>
       <sound>sound\Background</sound>
       <sound>sound\Background_2</sound>
+      <sound>sound\bosswave</sound>
     </sounds>
   </sounds>
   <sprites name="sprites">
@@ -56,6 +57,7 @@
     <sprite>sprites\Leveldesing_Team</sprite>
     <sprite>sprites\Objekt_Team</sprite>
     <sprite>sprites\Programmier_Team</sprite>
+    <sprite>sprites\Sound_Team</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\BG_Level1</background>
