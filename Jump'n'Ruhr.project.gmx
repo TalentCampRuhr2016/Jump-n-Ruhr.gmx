@@ -86,6 +86,7 @@
     <object>objects\win_player</object>
     <object>objects\music_win</object>
     <object>objects\object19</object>
+    <object>objects\credit_changer</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Main_Room</room>
