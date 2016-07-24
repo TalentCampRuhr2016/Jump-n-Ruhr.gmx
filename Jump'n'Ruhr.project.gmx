@@ -6,102 +6,123 @@
   <NewExtensions/>
   <sounds name="sound">
     <sounds name="effect">
-      <sound>sound\dummy_effect</sound>
-      <sound>sound\Erdbeben</sound>
-      <sound>sound\Gestorben_vom_Zombie</sound>
-      <sound>sound\Spitzhacke</sound>
-      <sound>sound\Steine_fallen</sound>
-      <sound>sound\Ziel_Veltins_Arena</sound>
-      <sound>sound\Gas</sound>
-      <sound>sound\Biene</sound>
-      <sound>sound\Block_M_nze</sound>
-      <sound>sound\Feuer</sound>
-      <sound>sound\laufen</sound>
-      <sound>sound\Leben_verlieren</sound>
-      <sound>sound\Sieg</sound>
-      <sound>sound\springen</sound>
-      <sound>sound\Verloren</sound>
-      <sound>sound\big_Bomb</sound>
-      <sound>sound\Feuer__gro__</sound>
+      <sound>sound\es_erdbeben</sound>
+      <sound>sound\es_gestorben</sound>
+      <sound>sound\es_spitzhacke</sound>
+      <sound>sound\es_steine_falllen</sound>
+      <sound>sound\es_ziel_jubel</sound>
+      <sound>sound\es_gas</sound>
+      <sound>sound\es_biene</sound>
+      <sound>sound\es_muenze</sound>
+      <sound>sound\es_feuer</sound>
+      <sound>sound\es_laufen</sound>
+      <sound>sound\es_leben_verlieren</sound>
+      <sound>sound\es_ziel_fanfare</sound>
+      <sound>sound\es_springen</sound>
+      <sound>sound\es_verloren</sound>
+      <sound>sound\es_bomb</sound>
+      <sound>sound\es_feuer_gross</sound>
     </sounds>
     <sounds name="Backgroundsounds">
-      <sound>sound\Backgroundsound_Music_</sound>
-      <sound>sound\Background_music_3</sound>
-      <sound>sound\Background_music_4</sound>
-      <sound>sound\Background_music_5</sound>
-      <sound>sound\credit_bg</sound>
-      <sound>sound\Background</sound>
-      <sound>sound\Background_2</sound>
-      <sound>sound\bosswave</sound>
+      <sound>sound\bgs_1</sound>
+      <sound>sound\bgs_2</sound>
+      <sound>sound\bgs_s3</sound>
+      <sound>sound\bgs_4</sound>
+      <sound>sound\bgs_5</sound>
+      <sound>sound\bgs_6</sound>
+      <sound>sound\bgs_7</sound>
+      <sound>sound\bgs_unity</sound>
+      <sound>sound\bgs_bosswave</sound>
     </sounds>
   </sounds>
   <sprites name="sprites">
-    <sprite>sprites\Gegner_Emma</sprite>
-    <sprite>sprites\black</sprite>
-    <sprite>sprites\dummy_player_sprite</sprite>
-    <sprite>sprites\dummy_life</sprite>
-    <sprite>sprites\coin_sprite</sprite>
-    <sprite>sprites\Player_1_Minenarbeiter</sprite>
-    <sprite>sprites\Player_1_Mienenarbeiter_Mirrored</sprite>
-    <sprite>sprites\Player_2_Schalke</sprite>
-    <sprite>sprites\Power_Up_Dortmund_1</sprite>
-    <sprite>sprites\Power_Up_Schalke_1</sprite>
-    <sprite>sprites\Power_Up_Duisburg_1</sprite>
-    <sprite>sprites\Power_Up_Oberhausen_1</sprite>
-    <sprite>sprites\Box_Power_Up</sprite>
-    <sprite>sprites\ground</sprite>
-    <sprite>sprites\CookIT</sprite>
-    <sprite>sprites\Game_Over_Screen_Lv_1</sprite>
-    <sprite>sprites\heart</sprite>
-    <sprite>sprites\Leveldesing_Team</sprite>
-    <sprite>sprites\Objekt_Team</sprite>
-    <sprite>sprites\Programmier_Team</sprite>
-    <sprite>sprites\Sound_Team</sprite>
+    <sprite>sprites\s_coin</sprite>
+    <sprite>sprites\s_heart</sprite>
+    <sprite>sprites\s_game_over</sprite>
+    <sprites name="power_Up">
+      <sprite>sprites\s_pu_schalke</sprite>
+      <sprite>sprites\s_dortmund_bier</sprite>
+      <sprite>sprites\s_oberhausen_geldsack</sprite>
+      <sprite>sprites\s_duisburg_lava</sprite>
+      <sprite>sprites\s_box</sprite>
+    </sprites>
+    <sprites name="programming">
+      <sprite>sprites\s_ground</sprite>
+      <sprite>sprites\s_black</sprite>
+      <sprite>sprites\dummy_life</sprite>
+      <sprite>sprites\s_d_player</sprite>
+    </sprites>
+    <sprites name="credits">
+      <sprite>sprites\s_credits_pic</sprite>
+      <sprite>sprites\s_cook_IT</sprite>
+      <sprite>sprites\s_c_leveldesign</sprite>
+      <sprite>sprites\s_c_programmier</sprite>
+      <sprite>sprites\s_c_objekt</sprite>
+      <sprite>sprites\s_c_sound</sprite>
+      <sprite>sprites\s_end</sprite>
+    </sprites>
+    <sprites name="player">
+      <sprite>sprites\s_minenarbeiter</sprite>
+      <sprite>sprites\s_minenarbeiter_mir</sprite>
+      <sprite>sprites\s_schalke</sprite>
+      <sprite>sprites\s_gegner_emma</sprite>
+      <sprite>sprites\s_gegner_bayern</sprite>
+      <sprite>sprites\s_gegner_dortmund</sprite>
+    </sprites>
+    <sprites name="level_1">
+      <sprite>sprites\s_game_over_lv1</sprite>
+      <sprite>sprites\s_einleitung</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
-    <background>background\BG_Level1</background>
-    <background>background\Boden</background>
+    <background>background\bg_lv1_einleitung</background>
+    <background>background\bg_tile_boden</background>
     <background>background\bg_lv1</background>
-    <background>background\background3</background>
+    <background>background\bg_lv1_sieg</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\ground_obj</object>
-    <object>objects\dummy_player</object>
-    <object>objects\player_minenarbeiter</object>
-    <object>objects\coin_object</object>
-    <object>objects\game_over_sound</object>
-    <object>objects\wall_object</object>
-    <object>objects\bg_level_1</object>
-    <object>objects\fallen_stone</object>
-    <object>objects\game_over_bg</object>
-    <object>objects\gas_fire</object>
-    <object>objects\credits_room_changer</object>
-    <object>objects\leveldesign</object>
-    <object>objects\objektteam</object>
-    <object>objects\programmierteam</object>
-    <object>objects\soundteam</object>
-    <object>objects\credit_room_music_player</object>
-    <object>objects\win_obj</object>
-    <object>objects\win_player</object>
-    <object>objects\music_win</object>
-    <object>objects\object19</object>
-    <object>objects\credit_changer</object>
-    <object>objects\main_music</object>
-    <object>objects\main_music_stopper</object>
+    <object>objects\obj_raum_wechsel</object>
+    <object>objects\obj_muenze</object>
+    <object>objects\obj_cookIT_logo</object>
+    <objects name="programming">
+      <object>objects\obj_boden</object>
+      <object>objects\obj_sieg_detektor</object>
+      <object>objects\obj_m_sieg_fanfare</object>
+      <object>objects\obj_m_haupt_stopp</object>
+      <object>objects\obj_m_haupt</object>
+      <object>objects\obj_d_spieler</object>
+      <object>objects\obj_m_game_over</object>
+      <object>objects\obj_wand</object>
+    </objects>
+    <objects name="credits">
+      <object>objects\obj_raum_wechsel_credits</object>
+      <object>objects\obj_m_credits</object>
+      <object>objects\obj_c_sound</object>
+      <object>objects\obj_c_programmier</object>
+      <object>objects\obj_c_objekt</object>
+      <object>objects\obj_c_leveldesign</object>
+    </objects>
+    <objects name="Lv1">
+      <object>objects\obj_spieler_minenarbeiter</object>
+      <object>objects\obj_spieler_minenarbeiter_sieg</object>
+      <object>objects\obj_m_bosswave</object>
+      <object>objects\obj_g_fallende_steine</object>
+      <object>objects\obj_g_gas_feuer</object>
+      <object>objects\obj_bg_game_over_lv1</object>
+    </objects>
   </objects>
   <rooms name="rooms">
-    <room>rooms\Main_Room</room>
-    <room>rooms\Start_Room</room>
-    <room>rooms\Level1</room>
-    <room>rooms\dummy_room</room>
-    <room>rooms\game_over</room>
-    <room>rooms\Credits_Room_0</room>
-    <room>rooms\Credits_Room_1</room>
-    <room>rooms\Credit_Room_2</room>
-    <room>rooms\Credit_Room_3</room>
-    <room>rooms\Credit_Room_4</room>
-    <room>rooms\win</room>
+    <room>rooms\r_titlescreen</room>
+    <room>rooms\r_start_lv1</room>
+    <room>rooms\r_lv1</room>
+    <room>rooms\r_d_lv</room>
+    <room>rooms\r_game_over_lv1</room>
+    <room>rooms\r_c_leveldesign</room>
+    <room>rooms\r_c_objekt</room>
+    <room>rooms\r_c_programmier</room>
+    <room>rooms\r_c_sound</room>
+    <room>rooms\r_win_lv1</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
