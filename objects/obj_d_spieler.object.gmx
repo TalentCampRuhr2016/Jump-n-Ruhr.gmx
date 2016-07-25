@@ -195,28 +195,6 @@ if(phy_speed_x &lt; -25) {
         </arguments>
       </action>
     </event>
-    <event eventtype="4" ename="obj_muenze">
-      <action>
-        <libid>1</libid>
-        <id>701</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>0</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_set_score</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>-1</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>0</kind>
-            <string>+100</string>
-          </argument>
-        </arguments>
-      </action>
-    </event>
     <event eventtype="4" ename="obj_boden">
       <action>
         <libid>1</libid>
@@ -239,6 +217,28 @@ if(phy_speed_x &lt; -25) {
           <argument>
             <kind>0</kind>
             <string>1</string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
+    <event eventtype="4" ename="obj_muenze">
+      <action>
+        <libid>1</libid>
+        <id>701</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_set_score</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>-1</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>0</kind>
+            <string>+100</string>
           </argument>
         </arguments>
       </action>
@@ -687,7 +687,7 @@ if(phy_speed_x &lt; -25) {
           </argument>
           <argument>
             <kind>5</kind>
-            <sprite>dummy_life</sprite>
+            <sprite>s_heart</sprite>
           </argument>
         </arguments>
       </action>
