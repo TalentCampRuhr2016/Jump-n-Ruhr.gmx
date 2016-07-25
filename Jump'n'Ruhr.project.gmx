@@ -26,7 +26,7 @@
     <sounds name="Backgroundsounds">
       <sound>sound\bgs_1</sound>
       <sound>sound\bgs_2</sound>
-      <sound>sound\bgs_s3</sound>
+      <sound>sound\bgs_3</sound>
       <sound>sound\bgs_4</sound>
       <sound>sound\bgs_5</sound>
       <sound>sound\bgs_6</sound>
@@ -49,7 +49,6 @@
     <sprites name="programming">
       <sprite>sprites\s_ground</sprite>
       <sprite>sprites\s_black</sprite>
-      <sprite>sprites\dummy_life</sprite>
       <sprite>sprites\s_d_player</sprite>
     </sprites>
     <sprites name="credits">
